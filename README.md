@@ -1,5 +1,79 @@
-## Hi there 👋
+// CREDITS: https://github.com/asciidoctor/docbookrx/blob/master/README.adoc
+// 
+// User Variables
+:name: Martin
+:handle: pxlhuntr
+:fullname: {name}
+<!-- :twitter-profile: https://twitter.com/{handle} -->
 
+// Badges & Tiles
+:linkedin-url: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+:profile-stats-tile-url: https://github-readme-stats.vercel.app/api?username=pxlhuntr&theme=onedark&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&include_all_commits=true
+
+// Document Settings
+:idprefix:
+:idseparator: -
+:icons: font
+//:toc:
+//:toclevels: 1
+
+// Begin Document
+= {fullname}
+
+++++
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mbennett23/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <!-- <a href="https://www.youtube.com/channel/"> -->
+  <!--   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> -->
+  <!-- </a> -->
+  <!-- <a href="https://twitter.com/user"> -->
+  <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
+  <!-- </a> -->
+  <!-- <a href="https://linktr.ee/user"> -->
+  <!--   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt=Linktr.ee"/> -->
+  <!-- </a> -->
+</div>
+++++
+
+== About Me +
+Something this way comes...
+
+== Core Roles +
+* 
+
+== Projects +
+* 
+
+== Community +
+<!-- * {pulumiverse-blog-url}[Pulumiverse] -->
+<!-- * {kubevirt-community-url}[KubeVirt Community] -->
+
+== Favorite Technologies +
+<!-- :siderolabs-gh-url: https://www.siderolabs.com/ -->
+<!-- :kubevirt-site-url: https://kubevirt.io -->
+<!-- :rook-ceph-url: https://rook.github.io/docs/rook/latest/ -->
+<!-- :cloudctl-gh-url: https://github.com/CloudCtl/cloudctl -->
+<!-- :kuma-site-url: https://kuma.io/ -->
+<!-- :microk8s-site-url: https://microk8s.io/ -->
+<!-- :pulumi-site-url: https://pulumi.com -->
+<!-- :clusterapi-url: https://cluster-api.sigs.k8s.io/ -->
+
+<!-- * *VIM All The Things!!* -->
+<!-- * link:{kuma-site-url}[Kuma Mesh] -->
+<!-- * link:{uorframework-gh-url}[Emporous.io] -->
+<!-- * link:{rook-ceph-url}[Rook CEPH] -->
+<!-- * link:{clusterapi-url}[Cluster API] -->
+<!-- * link:{kubevirt-site-url}[KubeVirt] -->
+<!-- * link:{cloudctl-gh-url}[CloudCtl Pod] -->
+<!-- * link:{siderolabs-gh-url}[Sidero Labs - Talos] / link:{microk8s-site-url}[Microk8s] -->
+<!-- * link:{pulumi-site-url}[Pulumi] -->
+<!-- * Python -->
+<!-- * Golang -->
+<!-- * Typescript -->
+<!---->
+image:{profile-stats-tile-url}[] +
 <!--
 **pxlhuntr/pxlhuntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +88,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=pxlhuntr&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="pxlhuntr's GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=pxlhuntr&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="pxlhuntr's GitHub Stats" /> -->
