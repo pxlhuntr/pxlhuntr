@@ -4,106 +4,195 @@
 :name: Martin
 :handle: pxlhuntr
 :fullname: {name}
-// <!-- :twitter-profile: https://twitter.com/{handle} -->
+// :twitter-profile: https://twitter.com/{handle}
 
 // Badges & Tiles
 :linkedin-url: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 :profile-stats-tile-url: https://github-readme-stats.vercel.app/api?username=pxlhuntr&theme=onedark&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&include_all_commits=true
 
 // Document Settings
-// :idprefix:
-// :idseparator: -
-// :icons: font
-//:toc:
-//:toclevels: 1
+:idprefix:
+:idseparator: -
+:icons: font
+:toc: macro
+:toclevels: 2
+:imagesdir: images
 
 // Begin Document
 = {fullname}
 
 ++++
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/mbennett23/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 ++++
 
-// <!-- <a href="https://www.youtube.com/channel/"> -->
-// <!--   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> -->
-// <!-- </a> -->
-// <!-- <a href="https://twitter.com/user"> -->
-// <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
-// <!-- </a> -->
-// <!-- <a href="https://linktr.ee/user"> -->
-// <!--   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt=Linktr.ee"/> -->
-// <!-- </a> -->
+// <a href="https://www.youtube.com/channel/">
+//   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+// </a>
+// <a href="https://twitter.com/user">
+//   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+// </a>
+// <a href="https://linktr.ee/user">
+//   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt=Linktr.ee"/>
+// </a>
 
-== About Me +
+toc::[]
+
+== 👨‍💻 About Me
 Something this way comes...
 
-== Core Roles +
-* Customer Support, Technical Support, IT, Development, Business Strategies, Service Partner Network Director
-... and it goes on and on my friends.
+== 🚀 Core Expertise
+* *Support:* Customer Support, Technical Support
+* *Technology:* IT, Development
+* *Business:* Business Strategies, Service Partner Network Director
 
-== Projects +
+== 🔭 Projects
 * <redacted>
 * <redacted>
 * <redacted>
 
-== 🌱 I’m currently learning ...
-* Data Engineering & Analytics - Dagster, dbt, dlt, python, Observable, D3
-* https://roadmap.sh/u/pxlhuntr
+== 🌱 I'm currently learning ...
+* Data Engineering & Analytics
+** Dagster
+** dbt
+** dlt
+** python
+** Observable
+** D3
+* https://roadmap.sh/u/pxlhuntr[Personal Development Roadmap]
 
-== These are a few of my favorite things...
+== 🤩 These are a few of my favorite things...
 * LazyVim
 * Mermaid-JS
 * D3.js
 * LazyGit/LazyVim
 
-== Community +
-// <!-- * {pulumiverse-blog-url}[Pulumiverse] -->
-// <!-- * {kubevirt-community-url}[KubeVirt Community] -->
-* https://app.daily.dev/pxlhuntr
+== 🔗 Community
+// {pulumiverse-blog-url}[Pulumiverse]
+// {kubevirt-community-url}[KubeVirt Community]
+* https://app.daily.dev/pxlhuntr[Daily.dev Profile]
+* https://monkeytype.com/profile/killahfly[MonkeyType Profile]
+* https://terminaltrove.com/[Terminal Trove]
 
-== Fun Stuff +
-* https://monkeytype.com/profile/killahfly
-* https://terminaltrove.com/
-
-// == Favorite Technologies +
-// <!-- :siderolabs-gh-url: https://www.siderolabs.com/ -->
-// <!-- :kubevirt-site-url: https://kubevirt.io -->
-// <!-- :rook-ceph-url: https://rook.github.io/docs/rook/latest/ -->
-// <!-- :cloudctl-gh-url: https://github.com/CloudCtl/cloudctl -->
-// <!-- :kuma-site-url: https://kuma.io/ -->
-// <!-- :microk8s-site-url: https://microk8s.io/ -->
-// <!-- :pulumi-site-url: https://pulumi.com -->
-// <!-- :clusterapi-url: https://cluster-api.sigs.k8s.io/ -->
+// == Favorite Technologies
+// :siderolabs-gh-url: https://www.siderolabs.com/
+// :kubevirt-site-url: https://kubevirt.io
+// :rook-ceph-url: https://rook.github.io/docs/rook/latest/
+// :cloudctl-gh-url: https://github.com/CloudCtl/cloudctl
+// :kuma-site-url: https://kuma.io/
+// :microk8s-site-url: https://microk8s.io/
+// :pulumi-site-url: https://pulumi.com
+// :clusterapi-url: https://cluster-api.sigs.k8s.io/
 //
-// <!-- * *VIM All The Things!!* -->
-// <!-- * link:{kuma-site-url}[Kuma Mesh] -->
-// <!-- * link:{uorframework-gh-url}[Emporous.io] -->
-// <!-- * link:{rook-ceph-url}[Rook CEPH] -->
-// <!-- * link:{clusterapi-url}[Cluster API] -->
-// <!-- * link:{kubevirt-site-url}[KubeVirt] -->
-// <!-- * link:{cloudctl-gh-url}[CloudCtl Pod] -->
-// <!-- * link:{siderolabs-gh-url}[Sidero Labs - Talos] / link:{microk8s-site-url}[Microk8s] -->
-// <!-- * link:{pulumi-site-url}[Pulumi] -->
-// <!-- * Python -->
-// <!-- * Golang -->
-// <!-- * Typescript -->
-// <!---->
-image:{profile-stats-tile-url}[] +
-// <!--
+// * *VIM All The Things!!*
+// * link:{kuma-site-url}[Kuma Mesh]
+// * link:{uorframework-gh-url}[Emporous.io]
+// * link:{rook-ceph-url}[Rook CEPH]
+// * link:{clusterapi-url}[Cluster API]
+// * link:{kubevirt-site-url}[KubeVirt]
+// * link:{cloudctl-gh-url}[CloudCtl Pod]
+// * link:{siderolabs-gh-url}[Sidero Labs - Talos] / link:{microk8s-site-url}[Microk8s]
+// * link:{pulumi-site-url}[Pulumi]
+// * Python
+// * Golang
+// * Typescript
+
+++++
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pxlhuntr&theme=onedark&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&include_all_commits=true" alt="GitHub Stats" />
+</div>
+++++
+
 // **pxlhuntr/pxlhuntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 //
 // Here are some ideas to get you started:
 //
-// - 🔭 I’m currently working on ...
-// - 👯 I’m looking to collaborate on ...
-// - 🤔 I’m looking for help with ...
+// - 🔭 I'm currently working on ...
+// - 👯 I'm looking to collaborate on ...
+// - 🤔 I'm looking for help with ...
 // - 💬 Ask me about ...
 // - 📫 How to reach me: ...
 // - 😄 Pronouns: ...
 // - ⚡ Fun fact: ...
-// -->
-// <!-- <img src="https://github-readme-stats.vercel.app/api?username=pxlhuntr&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="pxlhuntr's GitHub Stats" /> -->
+// 
+// <img src="https://github-readme-stats.vercel.app/api?username=pxlhuntr&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="pxlhuntr's GitHub Stats" />
+
+// [![wakatime](https://wakatime.com/badge/user/018cefe8-6fe4-4bcf-82f2-e0febb0b540f.svg)](https://wakatime.com/@018cefe8-6fe4-4bcf-82f2-e0febb0b540f) &nbsp;
+// ![version :23.11.2024](https://img.shields.io/badge/version-23.11.2024-informational) &nbsp;
+// [![GitHub Shellcat](https://img.shields.io/github/followers/shellcatt?label=follow&style=social)](https://github.com/shellcatt) &nbsp;
+
+== 💻 Tech Stack
+
+[cols="1,1", options="header"]
+|===
+|Web & Platform Development |DevOps & Tools
+
+|
+[discrete]
+==== 🌐 Web Development
+image:https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript[]
+// image:https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript[]
+// image:https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5[]
+// image:https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6[]
+// image:https://img.shields.io/badge/-LessCSS-05122A?style=flat&logo=Less&logoColor=563D7C[]
+// image:https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=563D7C[]
+// image:https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=563D7C[]
+// image:https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0868ac[]
+// image:https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=C3002F[]
+// image:https://img.shields.io/badge/-React-05122A?style=flat&logo=React[]
+// image:https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=Mocha&logoColor=8d6748[]
+// image:https://img.shields.io/badge/-Next.JS-05122A?style=flat&logo=Next.JS&logoColor=3a7cba[]
+
+[discrete]
+==== ⛁ Storage
+image:https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL[]
+// image:https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL[]
+// image:https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB[]
+// image:https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis[]
+
+[discrete]
+==== 💻 Platform Development
+image:https://img.shields.io/badge/-Node.JS-05122A?style=flat&logo=Node.js[]
+image:https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=ebba34[]
+image:https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu+Bash[]
+// image:https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk[]
+// image:https://img.shields.io/badge/♨-Java-informational?style=flat&logoColor=ebba34[]
+
+|
+[discrete]
+==== 🛠 DevOps & Tools
+image:https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker[]
+image:https://img.shields.io/badge/-Git-05122A?style=flat&logo=git[]
+image:https://img.shields.io/badge/-Github-05122A?style=flat&logo=github[]
+image:https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=BitBucket&logoColor=0044b3[]
+image:https://img.shields.io/badge/-Makefile-05122A?style=flat&logo=GNU[]
+// image:https://img.shields.io/badge/-Gitlalb-05122A?style=flat&logo=gitlab[]
+// image:https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=Traefik-Proxy[]
+// image:https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=FFC0CB[]
+// image:https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx[]
+// image:https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud[]
+// image:https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=edb602[]
+// image:https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform[]
+// image:https://img.shields.io/badge/-Packer-05122A?style=flat&logo=packer[]
+// image:https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=ed493e[]
+
+[discrete]
+==== ☂ Environment & Tools
+image:https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=gnome-terminal&logoColor=a84747[]
+image:https://img.shields.io/badge/-Tmux-05122A?style=flat&logo=tmux&logoColor=406929[]
+image:https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=google-chrome[]
+// image:https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC[]
+// image:https://img.shields.io/badge/-Netbeans-05122A?style=flat&logo=apache-netbeans-ide&logoColor=007ACC[]
+// image:https://img.shields.io/badge/-KDE-05122A?style=flat&logo=kde[]
+// image:https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu[]
+|===
+
+// References for badge sources:
+// - https://shields.io/
+// - https://simpleicons.org/
+// - https://wakatime.com/
+// - https://komarev.com/
+// - https://github.com/marwin1991/profile-technology-icons
